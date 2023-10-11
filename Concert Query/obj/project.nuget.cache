@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sB4IHR9ysVKi9hJLczmsMKhql08oycFZE1uzHKnPJPK8mn3iCB1qsTI+KJ0XnDyWF5SSxUvqdBCPBH8rq9rMew==",
+  "success": true,
+  "projectFilePath": "/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/Concert Query.csproj",
+  "expectedPackageFiles": [
+    "/Users/jhenessholm/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

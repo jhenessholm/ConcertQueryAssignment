@@ -1,0 +1,17 @@
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/bin/Debug/net6.0/Concert Query
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/bin/Debug/net6.0/Concert Query.deps.json
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/bin/Debug/net6.0/Concert Query.runtimeconfig.json
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/bin/Debug/net6.0/Concert Query.dll
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/bin/Debug/net6.0/Concert Query.pdb
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.csproj.AssemblyReference.cache
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.AssemblyInfoInputs.cache
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.AssemblyInfo.cs
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.csproj.CoreCompileInputs.cache
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.csproj.CopyComplete
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.dll
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/refint/Concert Query.dll
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.pdb
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/Concert Query.genruntimeconfig.cache
+/Users/jhenessholm/Projects/ConcertQueryAssignment/Concert Query/obj/Debug/net6.0/ref/Concert Query.dll
